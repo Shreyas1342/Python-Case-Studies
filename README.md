@@ -10,5 +10,5 @@ Shakespeare's_Plays
 
 Web_Scraping
 -Scrape the data from portexaminer.
--scrape the 5 motor company data.
--scrape the required details from the Bill  for each company.
+-scrape 5 motor company data.
+-scrape required details from the Bill  for each company.
